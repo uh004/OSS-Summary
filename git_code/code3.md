@@ -37,3 +37,8 @@ $ git switch -c '브랜치이름' -- 브랜치 생성 및 이동
 $ git branch -d '브랜치이름' -- 브랜치 삭제
 ```
 ![화면 캡처 2022-11-13 222155](https://user-images.githubusercontent.com/105197524/201523878-21cf4921-ba8f-4509-8b13-4be55fb4cd88.png)
+- git log로 커밋 이력확인가능 옵션 --graph --oneline --all을 사용하면 한눈에 보기 편하다.
+```
+$ git log --graph --oneline --all -- 커밋 이력 확인 (모든 커밋 이력을 한줄 그래프로로 보기)
+```
+![화면 캡처 2022-11-13 230004](https://user-images.githubusercontent.com/105197524/201525710-d3b28bdb-8dcd-40fb-9e4b-a2a2a1bf97d9.png)
