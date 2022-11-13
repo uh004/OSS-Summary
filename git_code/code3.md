@@ -18,10 +18,12 @@ $ git branch '브랜치이름' -- 브랜치 생성
 ![화면 캡처 2022-11-13 224156](https://user-images.githubusercontent.com/105197524/201524835-5f6675e3-e13c-4c9d-989f-96a35de2930b.png)
 - 브랜치 생성 확인
 ![제목 없음](https://user-images.githubusercontent.com/105197524/201523584-61f1f58f-e7b0-45ad-880d-2d8f1a8b2b91.png)
-- git checkout, switch를 사용하면 다른 브랜치로 이동이 가능하다.
+- git checkout, switch를 사용하면 다른 브랜치로 이동이 가능하다. -옵션은 이전 브랜치로 이동 할 수 있다.
 ```
 $ git checkout '브랜치이름' -- 브랜치 이동
 $ git switch '브랜치이름' -- 브랜치 이동
+$ git checkout - -- 이전브랜치로 이동
+$ git switch - -- 이전브랜치로 이동
 ```
 ![화면 캡처 2022-11-13 221806](https://user-images.githubusercontent.com/105197524/201523744-5894456a-2509-4852-ba8e-e4aa8b667290.png)
 - checkout은 -b switch는 -c 옵션을 사용하면 생성 및 이동이 가능하다.
