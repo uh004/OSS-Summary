@@ -34,6 +34,7 @@
 ```
 $ git log <-- 커밋 기록 나열
 ```
+![제목 없음](https://user-images.githubusercontent.com/105197524/201522316-5c1bb1b0-6277-4f3b-b6d2-a86f986805ab.png)
 
 ## diff 명령어
 **diff 명령어는 커밋 간 차이를 확인한다.**
