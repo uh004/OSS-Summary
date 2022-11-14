@@ -18,6 +18,13 @@ $ git add . --전체 파일과 폴더를 모두 등록할 수 있다.
 $ git commit -m '커밋메세지'
 ```
 
+## add commit 한번에 하기
+```
+두번째 커밋부터는 git commit -am을 사용해서 add와 commit을 한번에 할 수 있다.
+$ git commit -am '커밋메시지'
+```
+
+
 ## log 명령어
 ```
 마지막 커밋인 head부터 이전 모든 이력 로그 표시한다.
