@@ -1,4 +1,5 @@
-![128hsgntnsu9bww0y8sz](https://user-images.githubusercontent.com/105197524/196039835-5fbce362-a775-4ebb-b315-01a3c7d5cf6e.jpg)
+<img src="https://user-images.githubusercontent.com/105197524/196039835-5fbce362-a775-4ebb-b315-01a3c7d5cf6e.jpg" height = 70% width = 60%>
+
 
 - **워킹 디렉터리**는 작업을 하는 공간을 의미한다.실제로 파일을 생성 및 수정 가능 공간입니다.
 - **스테이지 영역**은 임시로 저장하는 공간을 의미한다. 파일들의 스테이지 상태는 status 명령어로 확인 가능하다.
