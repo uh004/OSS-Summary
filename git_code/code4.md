@@ -22,3 +22,19 @@ $ git merge --no-ff 브랜치 이름 -- --no-ff 옵션을 사용하면 3-way 병
 ```
 $ git rebase 브랜치 이름
 ```
+
+- 현재 HEAD가 devp/lst 브랜치를 가리키고 있다.
+
+![화면 캡처 2022-11-21 224919](https://user-images.githubusercontent.com/105197524/203071972-b063a939-9a27-4f42-8619-bd973502ef5e.png)
+
+- git rebase를 통해 main 이후로 devp/lst 브랜치를 재배치
+
+![화면 캡처 2022-11-21 225017](https://user-images.githubusercontent.com/105197524/203072033-62c164e3-389e-49fc-8a6c-2a9ff2ed3533.png)
+
+- 재배치 후 HEAD가 main 브랜치로 가리키고 병합을 한다.
+
+![화면 캡처 2022-11-21 225120](https://user-images.githubusercontent.com/105197524/203072047-e91aa058-5e2b-487b-bdd3-610feee1b54f.png)
+
+- 병합 완료 후 devp/lst 브랜치 삭제
+
+![화면 캡처 2022-11-21 225143](https://user-images.githubusercontent.com/105197524/203072057-87dce123-6c34-4913-950e-55c3172e4f0e.png)
