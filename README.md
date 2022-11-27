@@ -14,3 +14,4 @@
 ### <li><a href="https://github.com/uh004/OSS-Summary/blob/main/git_code/code1.md">add, commit, log, show</li>   
 ### <li><a href="https://github.com/uh004/OSS-Summary/blob/main/git_code/code2.md">clone, push, pull, fetch/merge</li>   
 ### <li><a href="https://github.com/uh004/OSS-Summary/blob/main/git_code/code3.md">branch, checkout, switch</li>   
+### <li><a href="https://github.com/uh004/OSS-Summary/blob/main/git_code/code4.md">fast forward merge, 3-way merge, rebase</li>
