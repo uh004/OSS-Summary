@@ -1,4 +1,4 @@
-# 오픈소프트웨어 정리 내용입니다.
+# 나의 오픈소프트웨어 구축
 
 ## 마크다운 태그와 사용방법
  ### <li><a href="https://github.com/uh004/OSS-Summary/blob/main/Markdown/Markdown.md" target="_blank">마크다운 설명서</a>
