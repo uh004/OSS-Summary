@@ -1,4 +1,4 @@
-# branch checkout switch 명령어
+# 📌branch checkout switch 
 ## 브랜치 개념
 - 여러 개발자들이 동시에 다양한 작업을 할 수 있게 만들어 주는 기능
 - 각자 독립적인 작업 영역안에서 마음대로 소스코드를 변경 가능
