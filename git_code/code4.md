@@ -1,4 +1,4 @@
-# fast forward merge, 3-way merge, rebase
+# 📌fast forward merge, 3-way merge, rebase
 
 ## fast-forward 병합
 ```
